@@ -14,7 +14,7 @@ name2='''Hello! World'''
 print(name,"\t",name1,"\t",name2)
 
 #Print statements without loop multiple times by using * operator
-print("M ADNAN SALEEM"*4)
+print("Muhammad Adnan Saleem\n"*4)
 
 #print the variables by using the format string
 name="Muhammad Adnan Saleem"
